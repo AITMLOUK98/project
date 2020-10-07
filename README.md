@@ -1,7 +1,7 @@
 # ceart_user.html
 <html>
   <head>
-    <title>text</title<
+    <title>image</title<
   </head>
   <body>
     <h1>hello world</h1>
